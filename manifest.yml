@@ -4,5 +4,5 @@ applications:
   path: target/Chatbot-0.0.1.war
   buildpack: liberty-for-java
   env:
-    CONVERSATION_WORKSPACE_ID: 765831a4-e99d-4c1e-b1a3-81d0826923ad
+    CONVERSATION_WORKSPACE_ID: 7b26c76b-ed15-4967-b100-0c292b80f8f9
     CAR_SERVICE_HOST: ChatBot-214631.mybluemix.net
